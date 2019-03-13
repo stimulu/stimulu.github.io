@@ -1,2 +1,3 @@
-# stimulu.github.io
+# //sine.stimu.lu/s
+
 Stimulu Documentation Website
